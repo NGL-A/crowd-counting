@@ -8,3 +8,4 @@ References:
 Dataset:
 - Fudan-ShangaiTech: https://github.com/sweetyy83/Lstn_fdst_dataset
 - Mall: https://www.kaggle.com/datasets/fmena14/crowd-counting
+- UCSD: http://www.svcl.ucsd.edu/projects/peoplecnt/
